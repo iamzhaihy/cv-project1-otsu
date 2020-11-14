@@ -25,15 +25,27 @@ The program uses hard-coded path for input images. So, do not remove images in `
 ## The Output Images
 
 **test image 1**
+
+
 ![data13](./results/data13_output.bmp)
+
+
 t1 = 76, t2 = 154, t3 = 221
 
 **test image 2**
+
+
 ![fruits2b](./results/fruits2b_output.bmp)
+
+
 t1 = 87, t2 = 139, t3 = 171
 
 **test image 3**
+
+
 ![tiger1](./results/tiger1-24bits_output.bmp)
+
+
 t1 = 44, t2 = 104, t3 = 174
 
 
